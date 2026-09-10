@@ -4,4 +4,4 @@ This is my fork of the siboor Boom 3d printer, i am trying to redesign and rebui
 
 i am currently looking for feedback on how i can improve my design.
 
-Please contact me on t.zweerman@gmail.com if you have any feedback for me
+Please contact me on t.zweerman@gmail.com if you have any feedback.
